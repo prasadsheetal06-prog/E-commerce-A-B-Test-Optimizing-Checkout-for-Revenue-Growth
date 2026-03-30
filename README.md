@@ -45,9 +45,3 @@ The product team suspected the legacy checkout flow was causing drop-offs, parti
 3. [cite_start]**User Engagement:** Stability in "Time on Site" (~6 mins) [cite: 35] confirms the new feature improved intent without adding checkout friction.
 
 ---
-
-## 📂 Repository Contents
-* `analysis/`: Python notebooks containing Bayesian simulations and EDA.
-* `database/`: SQL scripts for table creation and data migration.
-* `visuals/`: Power BI dashboard screenshots and PDF reports.
-* `data/`: Refined dataset used for final reporting.
